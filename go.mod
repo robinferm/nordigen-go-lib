@@ -1,3 +1,3 @@
-module github.com/frieser/nordigen-go-lib/v2
+module github.com/robinferm/nordigen-go-lib
 
 go 1.16
